@@ -1,0 +1,12 @@
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/bin/Debug/net6.0/RentCars.deps.json
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/bin/Debug/net6.0/RentCars.dll
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/bin/Debug/net6.0/RentCars.pdb
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/RentCars.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/RentCars.AssemblyInfoInputs.cache
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/RentCars.AssemblyInfo.cs
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/RentCars.csproj.CoreCompileInputs.cache
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/RentCars.sourcelink.json
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/RentCars.dll
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/refint/RentCars.dll
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/RentCars.pdb
+/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/Debug/net6.0/ref/RentCars.dll

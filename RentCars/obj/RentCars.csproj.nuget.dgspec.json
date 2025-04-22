@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/RentCars.csproj": {}
+  },
+  "projects": {
+    "/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/RentCars.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/RentCars.csproj",
+        "projectName": "RentCars",
+        "projectPath": "/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/RentCars.csproj",
+        "packagesPath": "/home/samuel/.nuget/packages/",
+        "outputPath": "/home/samuel/flex-csharp-01-project-rent-cars/src/RentCars/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/samuel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
