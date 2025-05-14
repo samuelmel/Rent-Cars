@@ -11,7 +11,6 @@ public class Rent
     public RentStatus Status { get; set; }
      
 
-    //10 - Crie o construtor de `Rent` seguindo as regras de negócio
     public Rent(Vehicle vehicle, Person person, int daysRented)
     {
        Vehicle = vehicle;
@@ -31,13 +30,11 @@ public class Rent
             person.Debit = Price;
     }
 
-    //11 - Implemente os métodos de `cancelar` e `finalizar` um aluguel
     public void Cancel()
     {
        Status = RentStatus.Canceled;
     }
 
-    //11 - Implemente os métodos de `cancelar` e `finalizar` um aluguel
     public void Finish()
     {
         Status = RentStatus.Finished;
