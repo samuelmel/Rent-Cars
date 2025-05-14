@@ -2,7 +2,6 @@ using System.Dynamic;
 using RentCars.Types;
 namespace RentCars.Models;
 
-//3 - Crie a classe `Vehicle`
 public class Vehicle
 {
 public string Brand {get; set;} = " ";
